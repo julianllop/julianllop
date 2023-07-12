@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm Julian Llop
 Full-stack developer with expertise in React, Express, PostgreSQL, and Node.js. I love crafting robust and user-friendly web applications that bring ideas to life.
 
-#🚀 My Skills:
+# 🚀 My Skills:
 
 ## Front-end Development: 
 - I specialize in React
