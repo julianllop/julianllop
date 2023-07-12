@@ -13,7 +13,7 @@ I'm proficient in Express and Node.js, creating scalable and efficient server-si
 I have hands-on experience with PostgreSQL, designing schemas, writing complex queries, and optimizing database performance for seamless data handling.
 Version Control: Git is my go-to tool for version control, enabling efficient collaboration and code management throughout the development lifecycle.
 
-# 💼 Experience:
+## 💼 Experience:
 I have worked on various projects, both independently and as part of a team, leveraging my skills to deliver high-quality software solutions. My portfolio includes building responsive web applications, e-commerce platforms, and database-driven systems that meet client requirements.
 
 🌱 I'm always excited about learning new technologies and frameworks to stay up-to-date with the latest industry trends. I thrive in dynamic environments that encourage innovation, teamwork, and continuous growth.
