@@ -6,7 +6,7 @@ Full-stack developer with expertise in React, Express, PostgreSQL, and Node.js. 
 ## Front-end Development: 
 I specialize in React, harnessing its powerful components, state management, and virtual DOM to build dynamic and interactive user interfaces.
 
-# #Back-end Development: 
+## Back-end Development: 
 I'm proficient in Express and Node.js, creating scalable and efficient server-side applications, RESTful APIs, and handling data flow between front-end and back-end.
 
 ## Database Management: 
