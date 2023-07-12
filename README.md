@@ -10,10 +10,17 @@ Full-stack developer with expertise in React, Express, PostgreSQL, and Node.js. 
 - virtual DOM to build dynamic and interactive user interfaces.
 
 ## Back-end Development: 
-I'm proficient in Express and Node.js, creating scalable and efficient server-side applications, RESTful APIs, and handling data flow between front-end and back-end.
+- Express
+- Node.js
+- Scalable and efficient server-side applications
+- RESTful APIs
+- Handling data flow between front-end and back-end
 
 ## Database Management: 
-I have hands-on experience with PostgreSQL, designing schemas, writing complex queries, and optimizing database performance for seamless data handling.
+- PostgreSQL
+- Designing schemas
+- Writing complex queries
+- Optimizing database performance 
 
 ## Version Control: 
 Git is my go-to tool for version control, enabling efficient collaboration and code management throughout the development lifecycle.
