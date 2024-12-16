@@ -18,6 +18,7 @@ Full-stack developer with expertise in React, Express, PostgreSQL, and Node.js. 
 
 ### Database Management: 
 - PostgreSQL
+- MongoDB
 - Designing schemas
 - Writing complex queries
 - Optimizing database performance 
